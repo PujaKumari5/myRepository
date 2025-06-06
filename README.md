@@ -1,4 +1,4 @@
 # myRepository
-Tis is my first Git Repository
+This is my first Git Repository(Hello)
 <br>
 Author - Puja Kumari
