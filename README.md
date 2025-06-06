@@ -1,3 +1,4 @@
 # myRepository
 Tis is my first Git Repository
-Author - PujaKumari
+<br>
+Author - Puja Kumari
